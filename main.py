@@ -7,6 +7,8 @@ import plotly.express as px
 
 if __name__ == '__main__':
 
+    st.title("Ciao Ragazzi Lezione finita")
+    
     df = pd.read_csv("https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv")
 
     st.dataframe(df)
