@@ -1,5 +1,8 @@
 # Regression Project
 
+Deployed using [streamlitcloud](https://streamlit.io/cloud)
+* App [https://share.streamlit.io/visiont3lab/streamlit-example-machine-learning/main/main.py]
+
 ## Setup
 
 ```
