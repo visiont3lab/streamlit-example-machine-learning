@@ -2,7 +2,8 @@
 
 Deployed using [streamlitcloud](https://streamlit.io/cloud)
 * [App](https://share.streamlit.io/visiont3lab/streamlit-example-machine-learning/main/main.py)
-
+* Notebook  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/streamlit-example-machine-learning/blob/main/Understanding.ipynb)
+ 
 ## Setup
 
 ```
